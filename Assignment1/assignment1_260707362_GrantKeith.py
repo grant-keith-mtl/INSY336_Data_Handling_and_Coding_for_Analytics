@@ -4,6 +4,8 @@ Spyder Editor
 
 This is a temporary script file.
 """
+#Name: Grant Keith
+#Student Number: 260707362
 from random import seed
 from random import randint
 
